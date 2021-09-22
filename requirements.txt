@@ -1,0 +1,8 @@
+beautifulsoup4==4.10.0
+EasyProcess==0.3
+et-xmlfile==1.1.0
+openpyxl==3.0.7
+PyVirtualDisplay==2.2
+selenium==3.141.0
+soupsieve==2.2.1
+urllib3==1.26.6
